@@ -29,7 +29,7 @@ const Icecream = () => {
           </p>
         </div>
 
-        <Link to="/recipie/icecream/ice1" className="nav-cake">
+        <Link to="/recipie/icecream/vanilla-ice" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
@@ -58,7 +58,7 @@ const Icecream = () => {
           </p>
         </div>
 
-        <Link to="/recipie/icecream/ice2" className="nav-cake">
+        <Link to="/recipie/icecream/chocolate-ice" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
