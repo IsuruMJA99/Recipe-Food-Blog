@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: pink;
+  }
+  
+  .recipie {
+    display: flex; /* Display the children in a horizontal row */
+    justify-content: center; /* Center the children horizontally */
+    flex-wrap: wrap; /* Wrap the children to the next line if necessary */
+  }
+  
+  .recipie .centered-div {
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    background-color: rgb(255, 255, 255);
+    margin: 50px 10px 10px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .nav-item-2{
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+  }
+  .text {
+    font-size: 18px;
+  }
+  .text .href{
+    text-decoration: none;
+    color: black;
+  }
+  
