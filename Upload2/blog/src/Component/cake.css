@@ -37,5 +37,14 @@
   .c-container .right-side .readMore{
     color: #5e5c5c;
   }
+  .footer{
+    margin-top:40px;
+    padding: 10px;
+    background-color: pink;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 12px;
+    text-decoration: underline;
+  }
 
   
