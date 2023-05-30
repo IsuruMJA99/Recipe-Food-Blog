@@ -29,7 +29,7 @@ const Cake = () => {
             </p>
           </div>
 
-          <Link to="/recipie/cake/chocolate" className="nav-cake">
+          <Link to="/recipie/cake/chocolate-cake" className="nav-cake">
             <div className="readMore">Read More</div>
           </Link>
         </div>
@@ -58,7 +58,7 @@ const Cake = () => {
             </p>
           </div>
 
-          <Link to="/recipie/cake/smores" className="nav-cake">
+          <Link to="/recipie/cake/smores-cake" className="nav-cake">
             <div className="readMore">Read More</div>
           </Link>
         </div>
