@@ -7,6 +7,10 @@ import About from './Component/About';
 import Cake from './Component/Cake';
 import Icecream from './Component/Icecream';
 import Beverage from './Component/Beverage';
+import Chocolate_cake from './Component/Chocolate_cake';
+import Smores_cake from './Component/Smores_cake';
+import Vanilla_ice from './Component/Vanilla_ice';
+import Chocolate_ice from './Component/Chocolate_ice';
 
 
  function App() {
@@ -22,6 +26,11 @@ import Beverage from './Component/Beverage';
           <Route exact path ='/recipie/cake' element={<Cake/>}/>
           <Route exact path ='/recipie/icecream' element={<Icecream/>}/>
           <Route exact path ='/recipie/beverage' element={<Beverage/>}/>
+
+          <Route exact path ='/recipie/cake/chocolate-cake' element={<Chocolate_cake/>}/>
+          <Route exact path ='/recipie/cake/smores-cake' element={<Smores_cake/>}/>
+          <Route exact path ='/recipie/cake/vanilla-ice' element={<Vanilla_ice/>}/>
+          <Route exact path ='/recipie/cake/Chocolate-ice' element={<Chocolate_ice/>}/>
         </Routes>
       
      
