@@ -40,8 +40,7 @@ const Cake = () => {
       </div>
 
       <div className="c-container">
-        {" "}
-        {/*S'MORES CAKE DIV STARTS HERE*/}
+                                        {/*S'MORES CAKE DIV STARTS HERE*/}
         <img src={smores} className="img" alt="butter-cake" />
         <div class="right-side">
           <div class="paragraph-div-content">
@@ -69,7 +68,7 @@ const Cake = () => {
       </div>
 
       <div className="c-container">
-        {" "}
+        
         {/*BUTTER CAKE DIV STARTS HERE*/}
         <img src={butter} className="img" alt="butter-cake" />
         <div class="right-side">
@@ -88,7 +87,7 @@ const Cake = () => {
             </p>
           </div>
 
-          <Link to="/recipie/cake/smores-cake" className="nav-cake">
+          <Link to="/recipie/cake/butter-cake" className="nav-cake">
             <div className="readMore">Read More</div>
           </Link>
         </div>
@@ -117,7 +116,7 @@ const Cake = () => {
             </p>
           </div>
 
-          <Link to="/recipie/cake/smores-cake" className="nav-cake">
+          <Link to="/recipie/cake/red-velvet-cake" className="nav-cake">
             <div className="readMore">Read More</div>
           </Link>
         </div>
