@@ -1,12 +1,20 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap'); */
+
 .body{
-    background-image: url(./images/background);
+    /* background-image: url(./images/background); */
+    background-color: #f5cccc;
+    
+    
+    
 }
 
 .title{
-    padding-top: 10px;
+    padding: 10px;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
     text-shadow: 50%;
+    font-size: 24px;
+   
 }
 
 .imgs{
@@ -22,42 +30,56 @@ margin-right: auto;
 .content{
     
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: medium;
+    font-size: large;
+    font-family: sans-serif;
 
 }
 h3{
     padding-left: 50px;
     padding-right: 50px;
+    font-family: sans-serif;
 }
 
 h4{
-    padding-left: 50px;
+    padding-left: 100px;
     padding-right: 50px;
+    font-family: sans-serif;
 }
 
 .list1{
-    padding-left: 50px;
+    padding-left: 200px;
     padding-right: 50px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: medium;
+    font-family: sans-serif;
+    font-size: large;
     list-style-type: circle;
 
 }
 
 .list2{
-    padding-left: 50px;
+    padding-left: 200px;
     padding-right: 50px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: medium;
+    font-family: sans-serif;
+    font-size: large;
     list-style-type: circle;
 }
 
 .par{
-    font-size: medium;
+    font-size: large;
     text-align: justify;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: medium;
+    font-family: sans-serif;
+    
     padding-left: 50px;
     padding-right: 50px;
     padding-top: -2px;
+    padding-bottom: 40px;
 }
+.footer{
+    margin-top:40px;
+    padding: 10px;
+    background-color: #ddadad;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 12px;
+    text-decoration: underline;
+  }
+  
