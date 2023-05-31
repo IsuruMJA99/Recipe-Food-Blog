@@ -9,8 +9,12 @@ import Icecream from './Component/Icecream';
 import Beverage from './Component/Beverage';
 import Chocolate_cake from './Component/Chocolate_cake';
 import Smores_cake from './Component/Smores_cake';
+import Butter_cake from './Component/Butter_cake';
+import RedVelvet from './Component/RedVelvet';
+
 import Vanilla_ice from './Component/Vanilla_ice';
 import Chocolate_ice from './Component/Chocolate_ice';
+
 
 
  function App() {
@@ -29,6 +33,9 @@ import Chocolate_ice from './Component/Chocolate_ice';
 
           <Route exact path ='/recipie/cake/chocolate-cake' element={<Chocolate_cake/>}/>
           <Route exact path ='/recipie/cake/smores-cake' element={<Smores_cake/>}/>
+          <Route exact path ='/recipie/cake/butter-cake' element={<Butter_cake/>}/>
+          <Route exact path ='/recipie/cake/red-velvet-cake' element={<RedVelvet/>}/>
+
           <Route exact path ='/recipie/cake/vanilla-ice' element={<Vanilla_ice/>}/>
           <Route exact path ='/recipie/cake/Chocolate-ice' element={<Chocolate_ice/>}/>
         </Routes>
