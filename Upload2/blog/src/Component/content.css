@@ -1,5 +1,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap'); */
 
+  @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
 .body{
     /* background-image: url(./images/background); */
     background-color: #f5cccc;
@@ -14,16 +16,27 @@
     font-family: sans-serif;
     text-shadow: 50%;
     font-size: 24px;
+    font-family: Berkshire+Swash;
    
 }
 
+.image{
+    width: 30%;
+    height: 5%;
+    place-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
 .imgs{
-width: 50%;
-height: 50%;
-place-items: center;
-display: block;
-margin-left: auto;
-margin-right: auto;
+    width: 30%;
+    height: 40%;
+    place-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -68,7 +81,7 @@ h4{
     text-align: justify;
     font-family: sans-serif;
     
-    padding-left: 50px;
+    padding-left: 70px;
     padding-right: 50px;
     padding-top: -2px;
     padding-bottom: 40px;
