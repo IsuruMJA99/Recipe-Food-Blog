@@ -33,7 +33,7 @@ const Chocolate_cake = () => {
     <li>1 cup boiling water</li>
     </ul>
 </div>
-  <h4>For the frosting:</h4>
+  <h4 className='content'>For the frosting:</h4>
 <div className='list2'>
   <ul>
     <li>1/2 cup unsalted butter, softened</li>
@@ -44,7 +44,7 @@ const Chocolate_cake = () => {
     </ul>
 </div>
 
-<h4>Instructions:</h4>
+<h3 className='content'>Instructions:</h3>
 <div className="par">
 <p>
 Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.
@@ -77,6 +77,12 @@ Enjoy your homemade chocolate cake!</p>
 </div>
 
     </div>
+
+
+    <div className="footer">
+        © 2023 Tipcy All Rights Reserved. An elite Dessert food
+        publisher.
+      </div>
 
     </div>
     
