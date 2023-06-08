@@ -27,7 +27,7 @@ const Beverage = () => {
           </p>
         </div>
 
-        <Link to="/recipie/icecream/ice1" className="nav-cake">
+        <Link to="/recipie/beverage/hot-chocolate" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
@@ -52,7 +52,7 @@ const Beverage = () => {
           </p>
         </div>
 
-        <Link to="/recipie/icecream/ice2" className="nav-cake">
+        <Link to="/recipie/beverage/falooda" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
@@ -75,7 +75,7 @@ const Beverage = () => {
           </p>
         </div>
 
-        <Link to="/recipie/icecream/ice2" className="nav-cake">
+        <Link to="/recipie/beverage/lemonade" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
@@ -99,7 +99,7 @@ const Beverage = () => {
           </p>
         </div>
 
-        <Link to="/recipie/icecream/ice2" className="nav-cake">
+        <Link to="/recipie/beverage/smoothie" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
