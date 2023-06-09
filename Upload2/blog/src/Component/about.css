@@ -1,0 +1,23 @@
+.title-about{
+    font-size: 32px;
+    color: #cc9393;
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.hi{
+    color: rgb(60, 60, 60);
+    margin-right: 50px;
+}
+.prof{
+    
+    max-height: 400px;
+    border-radius: 8px;
+    width: 600px; /* Adjust the width as needed */
+    margin-left: 200px;
+    margin-right: 50px; /* Adjust the margin as needed */
+}
+.container-about {
+    display: flex;
+    align-items: center;
+  }
