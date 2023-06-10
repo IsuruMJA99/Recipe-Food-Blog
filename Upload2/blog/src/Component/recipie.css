@@ -1,9 +1,9 @@
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
   }
   
   .recipie {
@@ -17,24 +17,102 @@
     height: 300px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-    background-color: rgb(255, 255, 255);
-    margin: 50px 10px 10px 10px;
+    background-color: rgb(122, 122, 122);
+    margin: 100px 30px 30px 30px;
     display: flex;
     justify-content: center;
     align-items: center;
   }
+
   
-  .nav-item-2{
-    padding: 10px;
-    margin: 10px;
-    text-decoration: none;
-    color: black;
-  }
-  .text {
-    font-size: 18px;
-  }
-  .text .href{
-    text-decoration: none;
-    color: black;
-  }
+
+
+
+  .centered-div{
+    height: 300px;
+    margin: 100px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+
+ }
+
+  .recipie .imgs{
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+ }
+
+.intro{
+  height: 70px;
+  width: 200px; 
+  padding: 6px;
+  box-sizing: border-box;
+  position: absolute;
+  bottom :130px;
+  background: rgb(27,27, 27, 0.6);
+  color: rgb(0, 0, 0);
+  transition: 0.5s;
+
+ }
+
+ h1{
+  margin: 5px;
+  font-size: 30px;
+  color: white;
   
+}
+  
+.nav-item-2{
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+ 
+ p{
+    margin: 5px;
+    font-size: 15px;  
+    visibility: hidden;
+    opacity: 0;
+    color: white; 
+   }
+
+  
+
+  .centered-div:hover{
+    cursor: pointer;
+ }
+
+.centered-div:hover .intro{
+    height: 200px;
+    bottom: 200px;
+    background: black;
+    opacity: .7;
+
+ }
+
+.centered-div:hover p{
+  opacity: 1;
+  visibility: visible;
+ }
+
+.centered-div:hover img{
+    transform: scale(1.1) rotate(-1deg);
+ }
+
+ 
+.logimg{
+  background-image: url(./images/back.jpg);
+  /* position: absolute; */
+  background-size:cover;
+  display: flex;
+  position:absolute;
+  background-repeat: no-repeat;
+  top: 55px;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.1;
+  
+  border: 2px solid rgb(0, 0, 0);
+} 
