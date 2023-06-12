@@ -46,7 +46,7 @@ const RedVelvet = () => {
 
 <h3 >Instructions:</h3>
 <div className="par">
-<p>
+
 Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.
 
 In a medium bowl, whisk together the flour, cocoa powder, baking powder, and salt. Set aside.
@@ -69,7 +69,7 @@ Remove the cakes from the oven and let them cool in the pans for about 10 minute
 
 While the cakes are cooling, prepare the cream cheese frosting. In a large mixing bowl, beat the softened cream cheese and butter until smooth and creamy. Gradually add the powdered sugar, one cup at a time, beating well after each addition. Stir in the vanilla extract.
 
-Once the cakes have cooled completely, place one cake layer on a serving plate. Spread a generous amount of cream cheese frosting on top. Place the second cake layer on top and frost the entire cake with the remaining cream cheese frosting.</p>
+Once the cakes have cooled completely, place one cake layer on a serving plate. Spread a generous amount of cream cheese frosting on top. Place the second cake layer on top and frost the entire cake with the remaining cream cheese frosting.
 </div>
 
     </div>
