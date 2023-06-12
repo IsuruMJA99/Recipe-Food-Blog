@@ -14,21 +14,21 @@ const Icecream = () => {
       <img src={blackCurrent} className="img" alt="black-current" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for black-current lovers</p>
+          a live for black-current lovers
         </div>
         <div class="paragraph-div-title">
-          <p>Black Current Ice-cream</p>
+          Black Current Ice-cream
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Black Current ice-cream recipe is perfect for that die hard black current
             fan in your life.
             <br />I am obsessed with how pretty this Black Current Ice-cream turned
             out.
-          </p>
+          
         </div>
 
-        <Link to="/recipie/icecream/vanilla-ice" className="nav-cake">
+        <Link to="/recipie/icecream/black-current-ice" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
@@ -40,21 +40,21 @@ const Icecream = () => {
       <img src={choco} className="img" alt="chocolate-ice-cream" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for chocolate lovers</p>
+          a live for chocolate lovers
         </div>
         <div class="paragraph-div-title">
-          <p>The Perfect Chocolate Ice-cream</p>
+          The Perfect Chocolate Ice-cream
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Chocolate ice-cream recipe is perfect for that die hard chocolate
             fan in your life.
             <br />I am obsessed with how pretty this Chocolate Ice-cream turned
             out.
-          </p>
+          
         </div>
 
-        <Link to="/recipie/icecream/vanilla-ice" className="nav-cake">
+        <Link to="/recipie/icecream/chocolate-ice" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
@@ -64,21 +64,21 @@ const Icecream = () => {
       <img src={kulfi} className="img" alt="kulfi" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for mango and yougurt lovers</p>
+          a live for mango and yougurt lovers
         </div>
         <div class="paragraph-div-title">
-          <p>Mango Kulfi Ice-cream</p>
+          Mango Kulfi Ice-cream
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Mango Kulfi ice-cream recipe is perfect for that die hard mango and youghurt
             fan in your life.
             <br />I am obsessed with how pretty this Mango Kulfi Ice-cream turned
             out.
-          </p>
+          
         </div>
 
-        <Link to="/recipie/icecream/vanilla-ice" className="nav-cake">
+        <Link to="/recipie/icecream/kulfi-ice" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
@@ -88,21 +88,21 @@ const Icecream = () => {
       <img src={pistachio} className="img" alt="pistachio" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for pistachio lovers</p>
+          a live for pistachio lovers
         </div>
         <div class="paragraph-div-title">
-          <p>Pistachio Ice-cream</p>
+          Pistachio Ice-cream
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Pistachio ice-cream recipe is perfect for that die hard pistachio
             fan in your life.
             <br />I am obsessed with how pretty this Pistachio Ice-cream turned
             out.
-          </p>
+          
         </div>
 
-        <Link to="/recipie/icecream/vanilla-ice" className="nav-cake">
+        <Link to="/recipie/icecream/pistachio-ice" className="nav-cake">
           <div className="readMore">Read More</div>
         </Link>
       </div>
