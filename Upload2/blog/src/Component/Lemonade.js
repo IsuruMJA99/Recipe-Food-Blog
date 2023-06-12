@@ -31,7 +31,7 @@ const Lemonade = () => {
 
 <h3>Instructions:</h3>
 <div className="par">
-<p>
+
 Make the simple syrup:
 Place the sugar and water in a small saucepan and bring to a simmer. Stir so that the sugar dissolves completely and remove from heat.
 <br/><br/>
@@ -48,7 +48,7 @@ Chill and serve:
 Refrigerate 30 to 40 minutes.
 <br/><br/>
 Serve & Enjoy with ice and sliced lemons.
-</p>
+
 </div>
 
     </div>
