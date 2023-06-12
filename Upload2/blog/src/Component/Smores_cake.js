@@ -41,7 +41,7 @@ const Smores_cake = () => {
 
 <h3>Instructions:</h3>
 <div className="par">
-<p>
+
 Preheat your oven to 350°F (175°C). Grease and flour a 9-inch round cake pan.
 
 In a large mixing bowl, combine the flour, sugar, cocoa powder, baking powder, baking soda, and salt. Mix well.
@@ -60,7 +60,7 @@ Once baked, remove the cake from the oven and let it cool in the pan for about 1
 
 Optional: For an extra touch, you can sprinkle additional graham cracker crumbs and marshmallows on top of the cooled cake.
 
-Slice and serve the s'mores cake, and enjoy!</p>
+Slice and serve the s'mores cake, and enjoy!
 </div>
 
     </div>
