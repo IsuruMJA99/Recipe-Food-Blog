@@ -17,6 +17,12 @@
   }
 
   .nav-item:hover{
-    background-color: rgb(210, 182, 236);
+    background-color: rgb(247, 241, 253);
+  }
+
+  .navbar .nav-item .logo{
+    width: 50px;
+    height: 50px;
+    
   }
 
