@@ -50,13 +50,13 @@ const HotChocolate = () => {
 
 <h3 className='content'>Instructions:</h3>
 <div className="par">
-<p>
+
 In a medium saucepan, whisk together the sugar and cocoa powder. Add milk, chocolate chips, and vanilla and whisk together.
 
 Place over medium heat and bring it to a light boil while stirring constantly. Be sure the chocolate is fully melted and incorporated.
 
 Set aside to cool to your desired temperature and serve with your favorite toppings.
-Enjoy your homemade Hot Chocolate Drink!</p>
+Enjoy your homemade Hot Chocolate Drink!
 </div>
 
     </div>
