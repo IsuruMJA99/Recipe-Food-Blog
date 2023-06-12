@@ -13,18 +13,18 @@ const Beverage = () => {
       <img src={hotChoc} className="img" alt="hot-chocolate" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for chocolate lovers</p>
+          a live for chocolate lovers
         </div>
         <div class="paragraph-div-title">
-          <p>The Perfect Hot Chocolate Drink</p>
+          The Perfect Hot Chocolate Drink
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Hot Chocolate is perfect for that die hard chocolate
             fan in your life.
             <br />I am obsessed with how pretty this Hot Chocolate turned
             out. Not only the perfectly smooth drink
-          </p>
+          
         </div>
 
         <Link to="/recipie/beverage/hot-chocolate" className="nav-cake">
@@ -39,17 +39,17 @@ const Beverage = () => {
       <img src={falooda} className="img" alt="falooda" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for falooda lovers</p>
+          a live for falooda lovers
         </div>
         <div class="paragraph-div-title">
-          <p>The Lovely Falooda Drink</p>
+          The Lovely Falooda Drink
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Falooda recipe is perfect for that die hard falooda fan
             in your life.
             <br />I am obsessed with how pretty this Falooda turned out.
-          </p>
+          
         </div>
 
         <Link to="/recipie/beverage/falooda" className="nav-cake">
@@ -62,17 +62,17 @@ const Beverage = () => {
       <img src={lemonade} className="img" alt="lemonade" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for lemonade lovers</p>
+          a live for lemonade lovers
         </div>
         <div class="paragraph-div-title">
-          <p>Refreshing Lemonade</p>
+          Refreshing Lemonade
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Lemonade recipe is perfect for that die hard lemonade fan
             in your life.
             <br />I am obsessed with how refreshing this Lemonade turned out.
-          </p>
+          
         </div>
 
         <Link to="/recipie/beverage/lemonade" className="nav-cake">
@@ -86,17 +86,17 @@ const Beverage = () => {
       <img src={smoothie} className="img" alt="strawberry-smoothie" />
       <div class="right-side">
         <div class="paragraph-div-content">
-          <p>a live for strawberry lovers</p>
+          a live for strawberry lovers
         </div>
         <div class="paragraph-div-title">
-          <p>The Perfect Strawberry Smoothie</p>
+          The Perfect Strawberry Smoothie
         </div>
         <div class="paragraph-div-content">
-          <p>
+          
             This Strawberry Smoothie recipe is perfect for that die hard strawberry fan
             in your life.
             <br />I am obsessed with how refreshing this Strawberry Smoothie turned out.
-          </p>
+          
         </div>
 
         <Link to="/recipie/beverage/smoothie" className="nav-cake">
