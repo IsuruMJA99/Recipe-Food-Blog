@@ -38,9 +38,9 @@ const Falooda = () => {
 
 <h3>Instructions:</h3>
 <div className="par">
-<p>
+
 Add the jello first, followed by vermicelli, and basil seeds. Next add milk, and then pour in the rose syrup. The rose syrup should sink to the bottom, creating a pink ombre look. Finally, top it with ice cream, and a little extra jello. Serve with a spoon and a straw. Remember to stir the milkshake before drinking.
-Enjoy your homemade Falooda! </p>
+Enjoy your homemade Falooda!
 </div>
 
     </div>
