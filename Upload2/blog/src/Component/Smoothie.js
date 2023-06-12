@@ -45,9 +45,9 @@ const Smoothie = () => {
 
 <h3>Instructions:</h3>
 <div className="par">
-<p>
+
 Place all ingredients in a blender, breaking the banana into pieces. Blend until creamy and frothy, stopping and scraping down the sides as necessary. If desired, garnish with a frozen strawberry and mint sprig. Serve immediately or store in a covered jar in the refrigerator for 2 days.
-Enjoy your homemade Strawberry Smoothie! </p>
+Enjoy your homemade Strawberry Smoothie!
 </div>
 
     </div>
