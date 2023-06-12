@@ -46,7 +46,7 @@ const Chocolate_cake = () => {
 
 <h3 className='content'>Instructions:</h3>
 <div className="par">
-<p>
+
 Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.
 
 In a large mixing bowl, combine the flour, sugar, cocoa powder, baking powder, baking soda, and salt. Mix well.
@@ -73,7 +73,7 @@ Decorate the cake as desired, or simply leave it plain.
 
 Let the frosting set for a few minutes before slicing and serving.
 
-Enjoy your homemade chocolate cake!</p>
+Enjoy your homemade chocolate cake!
 </div>
 
     </div>
