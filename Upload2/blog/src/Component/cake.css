@@ -5,7 +5,7 @@
     margin-right: auto;
     margin-top: 50px;
     border-radius: 0px;
-    background-color: rgba(255, 251, 238, 1);
+    background-color: #ffd7d7;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
   }
@@ -32,15 +32,18 @@
     font-style: italic;
     color: #5e5c5c;
     font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
    
   }
   .c-container .right-side .readMore{
     color: #5e5c5c;
+    padding-top: 30px;
   }
   .footer{
     margin-top:40px;
     padding: 10px;
-    background-color: pink;
+    background-color: #ddadad;
     font-family: sans-serif;
     text-align: center;
     font-size: 12px;
