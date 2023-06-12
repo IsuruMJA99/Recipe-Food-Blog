@@ -34,7 +34,6 @@ const Butter_cake = () => {
 
 <h3>Instructions:</h3>
 <div className="par">
-<p>
 Preheat your oven to 350°F (175°C). Grease and flour a 9-inch round cake pan.
 
 In a medium bowl, whisk together the flour, baking powder, and salt. Set aside.
@@ -49,7 +48,7 @@ Pour the batter into the prepared cake pan and smooth the top with a spatula.
 
 Bake in the preheated oven for about 35-40 minutes or until a toothpick inserted into the center comes out clean.
 
-Remove the cake from the oven and let it cool in the pan for about 10 minutes. Then transfer it to a wire rack to cool completely.</p>
+Remove the cake from the oven and let it cool in the pan for about 10 minutes. Then transfer it to a wire rack to cool completely.
 </div>
 
     </div>
