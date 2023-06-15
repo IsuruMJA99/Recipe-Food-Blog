@@ -18,10 +18,11 @@ function Homepage() {
   ]
 
   return (
-    <div className="ho-container main">
+    <div className="H-container main">
+      <div className="back"></div>
       <div className="section typo">
         <div className="col">
-          <h1 clssName="title">What Are We About</h1>
+          <h1 clssName="titl">What Are We About</h1>
           <p className="info">Tipcy is a place where you can please your soul and tummy with 
 			    delicious food recipes of all cuisine. And our service is absolutely free. So 
 			    start exploring now.</p>
