@@ -20,13 +20,13 @@ const Recipie = () => {
 
     <div className="recipie">
       <div className="centered-div">
-      <img className='imgs' src={img111} alt=''/>
+      <img className='imgs1' src={img111} alt=''/>
       <div className ="intro">
       <Link to="/recipie/Cake" className="nav-item-2">
       
 
-            <h1>Cake</h1>
-            <p>Delight in rich chocolate, zesty lemon, classic red velvet,
+            <h1 className="int1">Cake</h1>
+            <p className="int2">Delight in rich chocolate, zesty lemon, classic red velvet,
                moist carrot, vanilla-strawberry, warm lava, almond-rosewater,
                 tropical coconut, and more!</p>
       </Link>
@@ -36,14 +36,14 @@ const Recipie = () => {
 
       
       <div className="centered-div">
-      <img className='imgs' src={img222} alt=''/>
+      <img className='imgs1' src={img222} alt=''/>
 
       <div className ="intro">
         <Link to="/recipie/icecream" className="nav-item-2">
           
         
-            <h1>Ice-cream</h1>
-            <p>Indulge in the creamy delight that brings joy to every lick, 
+            <h1 className="int1">Ice-cream</h1>
+            <p className="int2">Indulge in the creamy delight that brings joy to every lick, 
               as luscious flavors swirl and melt, making ice cream a timeless
                treat for all.
                 </p>
@@ -53,13 +53,13 @@ const Recipie = () => {
       </div>
 
       <div className="centered-div">
-      <img className='imgs' src={img333} alt=''/>
+      <img className='imgs1' src={img333} alt=''/>
 
       <div className ="intro">
         <Link to="/recipie/beverage" className="nav-item-2">
           
-        <h1>Beverages</h1>
-            <p>From steaming cups of aromatic coffee to refreshing 
+        <h1 className="int1">Beverages</h1>
+            <p className="int2">From steaming cups of aromatic coffee to refreshing 
               fruit juices,tantalizing teas,and expertly crafted cocktails,
                 indulge in a diverse array of beverages that 
                 awaken your senses and quench your thirst.
