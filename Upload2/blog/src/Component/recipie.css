@@ -36,7 +36,7 @@
 
  }
 
-  .recipie .imgs{
+  .recipie .imgs1{
     height: 300px;
     width: 200px;
     border-radius: 10px;
@@ -55,7 +55,7 @@
 
  }
 
- h1{
+ .int1 {
   margin: 5px;
   font-size: 30px;
   color: white;
@@ -70,7 +70,7 @@
 }
 
  
- p{
+  .int2 {
     margin: 5px;
     font-size: 15px;  
     visibility: hidden;
@@ -84,7 +84,7 @@
     cursor: pointer;
  }
 
-.centered-div:hover .intro{
+.centered-div:hover .intro {
     height: 200px;
     bottom: 200px;
     background: black;
@@ -110,8 +110,8 @@
   position:absolute;
   background-repeat: no-repeat;
   top: 70px;
-  width: 100vw;
-  height: 100vh;
+  width: 98.5vw;
+  height: 95vh;
   opacity: 0.1;
   
   border: 2px solid rgb(0, 0, 0);
