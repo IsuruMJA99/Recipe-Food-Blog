@@ -9,7 +9,7 @@ const Nav = () => {
       <nav className="navbar">
           <Link to="#" className='nav-item'><img src={logo} className='logo' alt='tipcy-logo'/></Link>
           <Link to="/" className='nav-item'>Home</Link>
-          <Link to="/recipie" className='nav-item'>Recipie</Link>
+          <Link to="/recipie" className='nav-item'>Recipe</Link>
           <Link to="/about" className='nav-item'>About</Link>
         </nav>
     </div>
