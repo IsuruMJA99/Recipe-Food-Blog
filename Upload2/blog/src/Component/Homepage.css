@@ -96,16 +96,3 @@
     object-fit: cover;
 }
 
-.back{
-    background-image:  url(./images/back.jpg);
-    background-size:cover;
-    display: flex;
-    position:absolute;
-    background-repeat: no-repeat;
-    top: 70px;
-    left: 0;
-    width: 98.4vw;
-    height: 140vh;
-    opacity: 0.1;
-    border: 2px solid rgb(0, 0, 0);
-}
