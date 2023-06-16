@@ -7,7 +7,7 @@ const Pistachio_ice = () => {
     <div>
     <div className="body">
     <div className="title">
-      <h1>S'mores cake</h1>
+      <h1>Pistachio Ice-cream</h1>
     </div>
 
   
